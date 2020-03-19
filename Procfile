@@ -1,1 +1,1 @@
-web: gunicorn datawizT3.wsgi --log-file
+web: gunicorn datawizT3.wsgi --log-file -
