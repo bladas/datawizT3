@@ -1,0 +1,1 @@
+web: gunicorn datawizT3.wsgi --log-file
