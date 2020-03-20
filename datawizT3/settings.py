@@ -48,7 +48,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
-    'whitenoise.middleware.WhiteNoiseMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware'
 ]
 
 ROOT_URLCONF = 'datawizT3.urls'
@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'datawizT3.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'demo',
-        'USER': 'bladas',
-        'PASSWORD': 'nastya55',
-        'HOST': '127.0.0.1',
+        'NAME': 'ddpo19mgv6i5cg',
+        'USER': 'debdkvzzdvpsmk',
+        'PASSWORD': 'e9005ca2a3b20327d1fb76d29e45957d100b4b602faa571ac515b335cfdbcc71',
+        'HOST': 'ec2-54-157-78-113.compute-1.amazonaws.com',
         'PORT': '5432',
 
     }
