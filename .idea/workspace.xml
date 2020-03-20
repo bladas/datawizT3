@@ -20,7 +20,6 @@
         <entry file="file://$PROJECT_DIR$/api/v1/home/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -28,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/datawizT3/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="82" column="85" selection-start-line="82" selection-start-column="85" selection-end-line="82" selection-end-column="85" />
+            <state relative-caret-position="324">
+              <caret line="161" column="31" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
               <folding>
                 <element signature="e#309#324#0" expanded="true" />
               </folding>
@@ -87,7 +86,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/datadump.json">
           <provider selected="true" editor-type-id="LargeFileEditor">
             <state relative-caret-position="153">
@@ -153,9 +152,9 @@
         <option value="$PROJECT_DIR$/api/v1/home/serializers.py" />
         <option value="$PROJECT_DIR$/api/v1/home/views.py" />
         <option value="$PROJECT_DIR$/Procfile" />
-        <option value="$PROJECT_DIR$/datawizT3/settings.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/api/v1/home/migrations/0001_initial.py" />
+        <option value="$PROJECT_DIR$/datawizT3/settings.py" />
       </list>
     </option>
   </component>
@@ -306,12 +305,12 @@
       <workItem from="1584652280855" duration="5887000" />
       <workItem from="1584697020410" duration="2024000" />
       <workItem from="1584699740547" duration="1162000" />
-      <workItem from="1584725145243" duration="1782000" />
+      <workItem from="1584725145243" duration="2036000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62876000" />
+    <option name="totallyTimeSpent" value="63130000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -489,16 +488,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/datawizT3/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="82" column="85" selection-start-line="82" selection-start-column="85" selection-end-line="82" selection-end-column="85" />
-          <folding>
-            <element signature="e#309#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -512,7 +501,6 @@
     <entry file="file://$PROJECT_DIR$/api/v1/home/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret lean-forward="true" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -540,6 +528,16 @@
       <provider selected="true" editor-type-id="LargeFileEditor">
         <state relative-caret-position="153">
           <caret column="3684" selection-start-column="3684" selection-end-column="3684" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datawizT3/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="161" column="31" selection-start-line="161" selection-start-column="31" selection-end-line="161" selection-end-column="31" />
+          <folding>
+            <element signature="e#309#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
